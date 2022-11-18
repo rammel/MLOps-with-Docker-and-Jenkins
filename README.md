@@ -404,7 +404,7 @@ You can now play with it: try making a commit in Github and see how every step g
 I hope you have learned a lot! Thanks for reading!
 
 
-# References:
+# References
 
 [Docker for Machine Learning – Part III](https://mlinproduction.com/docker-for-ml-part-3/)
 
